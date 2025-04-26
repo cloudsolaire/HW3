@@ -1,7 +1,7 @@
 ## Information
 
 - Author: Jessica Hernandez
-- Title: CIS4004 - Web Based IT - Assignment 3
+- Title: CIS4004 - Web Based IT - Assignment 3 Part 1
 
 ## Planning
 
