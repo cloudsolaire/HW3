@@ -1,4 +1,3 @@
-New README.md template
 ## Information
 
 - Author: Jessica Hernandez
